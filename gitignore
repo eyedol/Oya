@@ -1,4 +1,4 @@
 bin/*
-.*pyc
+*.pyc
 *~
-.*swp
+*.swp
