@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Oya
+_Comment=Oya application
+Categories=GNOME;Utility;
+Exec=oya
+Icon=oya
+Terminal=false
+Type=Application

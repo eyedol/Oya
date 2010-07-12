@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.addhen.OyaPolicyKitService.service
+Exec=/home/eyedol/Work/Workspace/oya/oya/oya_policy_kit.py
+User=root
