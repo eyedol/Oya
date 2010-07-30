@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-### BEGIN LICENSE
-# This file is in the public domain
-### END LICENSE
+# Policy kit implementation
 
 import gobject
 import time
