@@ -33,6 +33,7 @@ class OyaPolicyKit(dbus.service.Object):
     def start_dnsmasq_service(self, start_service_cmd, sender=None,conn=None):
         self.check_policy_kit_privilege(sender, conn, 'org.addhen.OyaPolicyKitService.there')
         #start dnsmasq service
+        # TODO write proper code to start the service
         print "Starting ... %s" % (start_service_cmd )    
             
     @dbus.service.method("org.addhen.OyaPolicyInterface",
